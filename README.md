@@ -17,24 +17,24 @@ The new webpage is dynamic with multiple filter criteria. Depending upon value a
 
 ### Without any Filter displaying all data 
 
-! [](https://github.com/sumanpriyah/UFOs/blob/main/static/images/No%20filter.png)
+![](https://github.com/sumanpriyah/UFOs/blob/main/static/images/No%20filter.png)
 
 ### With date filter showing only date added on filter
 
-! [] (https://github.com/sumanpriyah/UFOs/blob/main/static/images/date%20filter.png)
+![](https://github.com/sumanpriyah/UFOs/blob/main/static/images/date%20filter.png)
 
 ### With city filter showing only city added on filter
 
-! [] (https://github.com/sumanpriyah/UFOs/blob/main/static/images/city%20filter.png)
+![](https://github.com/sumanpriyah/UFOs/blob/main/static/images/city%20filter.png)
 
 ### With state filter showing only state added on filter
 
-! [] (https://github.com/sumanpriyah/UFOs/blob/main/static/images/state%20filter.png)
+![](https://github.com/sumanpriyah/UFOs/blob/main/static/images/state%20filter.png)
 
 
 ### With shape filter showing only shape added on filter
 
-! [] (https://github.com/sumanpriyah/UFOs/blob/main/static/images/shape%20filter.png)
+![](https://github.com/sumanpriyah/UFOs/blob/main/static/images/shape%20filter.png)
 
 
 ## Summary:
